@@ -2,7 +2,7 @@
 
 # Text Encoding and Decoding Utility
 
-This Python script provides a set of functions to encode and decode text a chain of techniques, including:
+This Python script provides a set of functions to encode and decode text using a chain of techniques, including:
 
 - Conversion to decimal ASCII representation
 - ROT13 transformation
